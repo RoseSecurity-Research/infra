@@ -1,0 +1,9 @@
+[Interface]
+  PrivateKey = Q6RDXWliI0jtoAoYlP/xj5Tut0zEfAN/erEPv8wB95I=
+  Address = 192.168.123.107/32
+
+[Peer]
+  PublicKey = mIK3HI8yHLynyM3yX7w7Van2v/9rTPahiKopjXR9qxs=
+  AllowedIPs = 192.168.1.0/24
+  Endpoint = 52.18.63.80:51820
+  PersistentKeepalive = 240
